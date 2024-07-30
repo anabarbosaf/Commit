@@ -1,1 +1,3 @@
+
 content for merge with conflict
+different content for conflict.txt
